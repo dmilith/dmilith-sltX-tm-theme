@@ -1,3 +1,3 @@
 # Example
 
-![example image](example.png)
+![example image](https://github.com/dmilith/dmilith-sltX-tm-theme/blob/master/example.png)
